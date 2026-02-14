@@ -1,5 +1,7 @@
 # Synthetic Respondents Tool - MVP (Phase 1)
 
+View Tool: [link](https://docs.google.com/presentation/d/1AEOnWCp1SUmxqYeutLMqBjnW-zk7iSkgrjuTZdfw06E/edit?usp=sharing)
+
 A simple CPG concept testing platform using AI-generated personas powered by local Ollama.
 
 ## Prerequisites
